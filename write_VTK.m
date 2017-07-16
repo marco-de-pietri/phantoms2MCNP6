@@ -48,6 +48,8 @@ if target==1
 
 end
 
+%This will be changed in the c++ version
+
 
 if target==2
     cartella_geometry=input('insert path of folder containing voxel_geometry.mat\n','s');
